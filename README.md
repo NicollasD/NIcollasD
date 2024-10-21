@@ -1,5 +1,5 @@
 # Nicollas
-Designer gráfico e Desenvolvedor Front-end iniciante, participando do Projeto One Next Education da Oracle + Alura. 
+Designer gráfico e Desenvolvedor Front-end iniciante, atualmente participando do Projeto One Next Education da Oracle + Alura. 
 
 Amo tecnologia, jogos e animais.
 
